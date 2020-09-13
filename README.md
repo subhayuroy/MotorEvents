@@ -21,7 +21,7 @@ The Machine Learning processess used are:-
 - K-Nearest Neighbour(k-NN)
 - Decision Tree
 
-This project will be :+1: :-
+This project is supposed to be :+1: :-
 - [x] Finishing ML parts
 - [ ] A web interface(Django project)
 - [ ] Better GUI format(HTML or Tkinter)
@@ -42,7 +42,7 @@ This project will be :+1: :-
 To access Colaboratory file:
 - [Events.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/Events.ipynb)
 
-- [eventAnakysis.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
+- [eventAnalysis.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
  
  Jupyter files are:
  - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/Events.ipynb)
