@@ -1,0 +1,10 @@
+numpy
+pandas
+plotly.graph_objects.go
+sklearn.preprocessing.LabelEncoder
+sklearn.preprocessing.StandardScaler
+sklearn.neighbors.KNeighborsClassifier
+sklearn.linear_model.LinearRegression
+IPython.display.display
+sklearn.model_selection.train_test_split
+sklearn.metrics.accuracy_score
