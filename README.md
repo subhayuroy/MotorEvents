@@ -1,5 +1,10 @@
 <h1 align="center">Motor Project(Analysis)</h1>
 
+<p align="center">
+  <a href="https://github.com/subhayuroy/MotorEvents">
+    <img src="https://pngimage.net/wp-content/uploads/2020/02/steam-machine-png-3.png" alt="Logo" width="150" height="150">
+  </a>
+
 The pump can be defined as it is a mechanical device used to *convert torque* from mechanical hydraulic.
 It simply makes possible of fluids movement from one location to another with the help of pressure or suction.
 
@@ -33,6 +38,11 @@ This project will be :+1: :-
 
 
 3) Run the Jupyter files in your *system*.
+
+To access Colaboratory file:
+- [Events.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/Events.ipynb)
+
+- [eventAnakysis.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
  
  Jupyter files are:
  - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/Events.ipynb)
