@@ -21,12 +21,11 @@ This project will be :+1: :-
 - [ ] User-Friendly
 
 <h3 align="center">How to use this project?</h3>
- 1. Clone the Repo by going to your local Git Client and pushing in the command: 
- `git@github.com:subhayuroy/MotorEvents.git`
+1. Clone the Repo by going to your local Git Client and pushing in the command: `git@github.com:subhayuroy/MotorEvents.git`
  
- 2. Install **Packages**: `pip3 install -r requirements.txt`
+2. Install **Packages**: `pip3 install -r requirements.txt`
  
- 3. Run the Jupyter files in your *system*.
+3. Run the Jupyter files in your *system*.
  
  Jupyter files are:
  - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/Events.ipynb)
