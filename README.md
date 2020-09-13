@@ -21,7 +21,8 @@ This project will be :+1: :-
 - [ ] User-Friendly
 
 <h3 align="center">How to use this project?</h3>
- 1. Clone the Repo by going to your local Git Client and pushing in the command: `git@github.com:subhayuroy/MotorEvents.git`
+ 1. Clone the Repo by going to your local Git Client and pushing in the command: 
+ `git@github.com:subhayuroy/MotorEvents.git`
  
  2. Install **Packages**: `pip3 install -r requirements.txt`
  
