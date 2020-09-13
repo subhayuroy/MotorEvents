@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/subhayuroy/MotorEvents">
-    <img src="https://pngimage.net/wp-content/uploads/2020/02/steam-machine-png-3.png" alt="Logo" width="150" height="150">
+    <img src="https://pngimage.net/wp-content/uploads/2020/02/steam-machine-png-3.png" alt="Logo" width="220" height="200">
   </a>
 
 The pump can be defined as it is a mechanical device used to *convert torque* from mechanical hydraulic.
