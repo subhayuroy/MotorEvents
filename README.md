@@ -7,7 +7,9 @@ It simply makes possible of fluids movement from one location to another with th
 
 This project consists of two stages. First stage, we're manipulating the datasets available and eliminating all incomplete data.
 We'll also create a final data-set in which all faulty data is removed as well as Unnecessary data is removed. We name this data-set ***final-data.csv***.
+
 [To access all the data-sets](Data/)
+
 Second stage, here we'll be working on this final data-set and perform analysis. We're basically trying to show that a motor is ***independant*** of all external factors and rather depends on it's ***sensors***.
 
 The Machine Learning processess used are:-
@@ -21,7 +23,8 @@ This project will be :+1: :-
 - [ ] User-Friendly
 
 <h3 align="center">How to use this project?</h3>
-1. Clone the Repo by going to your local Git Client and pushing in the command: `git@github.com:subhayuroy/MotorEvents.git`
+1. Clone the Repo by going to your local Git Client and pushing in the command: 
+`git@github.com:subhayuroy/MotorEvents.git`
  
 2. Install **Packages**: `pip3 install -r requirements.txt`
  
