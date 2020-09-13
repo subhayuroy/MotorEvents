@@ -31,3 +31,6 @@ This project will be :+1: :-
  - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/Events.ipynb)
  
  - [Data manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
+ 
+ If you like :+1: this project, give it a star :star: 
+ Or, you can even *fork* this repository.
