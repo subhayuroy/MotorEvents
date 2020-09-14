@@ -40,12 +40,12 @@ This project is supposed to be :+1: :-
 3) Run the Jupyter files in your *system*.
 
 To access Colaboratory file:
-- [Events.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/Events.ipynb)
+- [preparingData.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/preparingData.ipynb)
 
 - [eventAnalysis.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
  
  Jupyter files are:
- - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/Events.ipynb)
+ - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/preparingData.ipynb)
  
  - [Data manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
  
