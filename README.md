@@ -23,6 +23,7 @@ The Machine Learning processess used are:-
 
 This project is supposed to be :+1: :-
 - [x] Finishing ML parts
+- [x] Django set-up
 - [ ] A web interface(Django project)
 - [ ] Better GUI format(HTML or Tkinter)
 - [ ] User-Friendly
