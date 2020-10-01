@@ -1,4 +1,6 @@
 <h1 align="center">Motor Project(Analysis)</h1>
+<p align="left"><img alt="GitHub" src="https://img.shields.io/github/license/subhayuroy/MotorEvents"></p>
+
 
 <p align="center">
   <a href="https://github.com/subhayuroy/MotorEvents">
