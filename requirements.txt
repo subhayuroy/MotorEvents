@@ -8,3 +8,4 @@ sklearn.linear_model.LinearRegression
 IPython.display.display
 sklearn.model_selection.train_test_split
 sklearn.metrics.accuracy_score
+django
