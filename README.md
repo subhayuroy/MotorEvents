@@ -40,7 +40,7 @@ This project is supposed to be :+1: :-
 `pip3 install -r requirements.txt`
 
 
-3) Run the Jupyter files in your *system*.
+3) Run the Jupyter files in your *system*
 
 To access Colaboratory file:
 - [preparingData.ipynb](https://colab.research.google.com/github/subhayuroy/MotorEvents/blob/master/preparingData.ipynb)
@@ -51,6 +51,3 @@ To access Colaboratory file:
  - [Data-set manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/preparingData.ipynb)
  
  - [Data manipulation](https://github.com/subhayuroy/MotorEvents/blob/master/eventAnalysis.ipynb)
- 
- If you like :+1: this project, give it a star :star: 
- Or, you can even *fork* this repository.
