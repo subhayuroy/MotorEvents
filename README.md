@@ -23,7 +23,7 @@ The Machine Learning processess used are:-
 - K-Nearest Neighbour(k-NN)
 - Decision Tree
 
-This project is supposed to be :+1: :-
+This project is supposed to have :-
 - [x] Finishing ML parts
 - [x] Django set-up
 - [ ] A web interface(Django project)
